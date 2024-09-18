@@ -41,7 +41,7 @@ function Affair(props: AffairPropsType) {
                 // need to fix
 
             >
-                {/*текст кнопки могут изменить студенты*/}
+                {/*текст кнопки могут изменить студенты хорошо*/}
                 X
                 {/**/}
             </button>
